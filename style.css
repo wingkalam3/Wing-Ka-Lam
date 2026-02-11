@@ -1,0 +1,16 @@
+.myDiv {
+  text-align: center;
+}
+  h2 {color: rgb(0, 232, 15);}  
+  h3 {color: rgb(191, 0, 255);}
+  h4 {color: rgb(100, 100, 255);}
+  #All-about-Kelly-heading {
+            background-color: yellow;
+        }
+  .myinfo {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
